@@ -89,7 +89,7 @@ This project demonstrates efficient fine-tuning of `llama-3.2-3B-instruct` using
 
 ---
 
-📌 **Contributors**: Your Name  
+📌 **Contributors**: R.Sarath Kumar 
 📌 **License**: MIT  
 📌 **References**: Meta AI, Hugging Face, Unsloth
 
